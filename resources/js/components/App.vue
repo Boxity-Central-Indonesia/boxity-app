@@ -32,15 +32,17 @@
                             </li> -->
                             <li class="nav-support">
                                 <div class="dropdown-custom">
-                                    <a href="https://marsiajar.com" target="_blank" class="nav-item-toggle">
+                                    <a href="https://marsiajar.com" target="_blank" title="Homepage"
+                                        class="nav-item-toggle">
                                         <span style="font-size: 1.10rem;" class="mx-2"><i class="fas fa-home"></i>
                                         </span>
                                     </a>
-                                    <a href="https://help.boxity.id" target="_blank" class="nav-item-toggle">
+                                    <a href="https://help.boxity.id" target="_blank" title="Documentation"
+                                        class="nav-item-toggle">
                                         <span style="font-size: 1.10rem;" class="mx-2"><i
                                                 class="far fa-question-circle"></i></span>
                                     </a>
-                                    <router-link to="/inbox" class="nav-item-toggle">
+                                    <router-link to="/inbox" title="Inbox" class="nav-item-toggle">
                                         <span style="font-size: 1.10rem;" class="mx-2"><i
                                                 class="fas fa-inbox"></i></span>
                                     </router-link>
