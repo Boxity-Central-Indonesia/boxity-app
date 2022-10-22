@@ -32,6 +32,10 @@
                             </li> -->
                             <li class="nav-support">
                                 <div class="dropdown-custom">
+                                    <a href="https://marsiajar.com" target="_blank" class="nav-item-toggle">
+                                        <span style="font-size: 1.10rem;" class="mx-2"><i class="fas fa-home"></i>
+                                        </span>
+                                    </a>
                                     <a href="https://help.boxity.id" target="_blank" class="nav-item-toggle">
                                         <span style="font-size: 1.10rem;" class="mx-2"><i
                                                 class="far fa-question-circle"></i></span>
@@ -838,7 +842,7 @@
     .nav-right .nav-author__options ul li a:hover {
         background: rgba(95, 99, 242, 0.05);
         padding-left: 35px;
-        color: #fa831c;
+        color: rgba(54, 166, 146, .6);
     }
 
     .nav-right .nav-author__options ul li a {

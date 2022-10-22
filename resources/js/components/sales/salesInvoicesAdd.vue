@@ -125,7 +125,7 @@
                                     <div class="form-group">
                                         <span>Quantity Shipped/Nett Weight:</span> <br>
                                         <span v-show="qtyItem!= null" id="qtyItem"
-                                            style="color: #f06532;">{{ "(Quantity Item = " + qtyItem + ")" }}</span>
+                                            style="color: #36a692;">{{ "(Quantity Item = " + qtyItem + ")" }}</span>
                                         <input type="number" v-model="itemAdd.qtyShipped" placeholder="0" id="" min="0"
                                             max="10000" step="1" class="form-control" />
                                         <span v-show="isShow.qty" id="qty">Can't be more than quantity items</span>

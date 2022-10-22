@@ -187,7 +187,7 @@
                     text: "You won't be able to revert this!",
                     icon: 'warning',
                     showCancelButton: true,
-                    confirmButtonColor: 'rgba(243, 118, 73)',
+                    confirmButtonColor: 'rgba(54, 166, 146, 1)',
                     cancelButtonColor: '#d33',
                     confirmButtonText: 'Yes, reject it!'
                 }).then((result) => {
@@ -212,7 +212,7 @@
                     text: "You won't be able to revert this!",
                     icon: 'warning',
                     showCancelButton: true,
-                    confirmButtonColor: 'rgba(243, 118, 73)',
+                    confirmButtonColor: 'rgba(54, 166, 146, 1)',
                     cancelButtonColor: '#d33',
                     confirmButtonText: 'Yes, invite this person!'
                 }).then((result) => {

@@ -105,7 +105,7 @@
         .menu {
             font-size: 14px;
             font-weight: 600;
-            color: #f06532;
+            color: #36a692;
             text-transform: capitalize;
         }
 

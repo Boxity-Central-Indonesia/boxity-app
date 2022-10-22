@@ -345,7 +345,7 @@ a {
 }
 
 .edit:hover {
-    background-color: rgba(243, 118, 73);
+    background-color: rgba(54, 166, 146, 1);
 }
 
 .remove:hover {
@@ -354,7 +354,7 @@ a {
 }
 
 a {
-    color: rgba(243, 118, 73);
+    color: rgba(54, 166, 146, 1);
 }
 
 .pasfoto {
@@ -402,7 +402,7 @@ a {
 
 .router-link-exact-active,
 .router-link-exact-active span {
-    color: #f06532;
+    color: #36a692;
 }
 
 .mb-20,
@@ -428,7 +428,7 @@ a {
 .color-primary,
 .material-icons-outlined,
 .nav-icon {
-    color: #f06532;
+    color: #36a692;
 }
 
 .breadcrumb-main span {
@@ -483,8 +483,8 @@ a {
 /* button */
 .btn-primary-boxity:hover {
     color: #fff !important;
-    background-color: rgba(243, 118, 73);
-    border-color: rgba(243, 118, 73);
+    background-color: rgba(54, 166, 146, 1);
+    border-color: rgba(54, 166, 146, 1);
 }
 
 .btn-primary-boxity {
@@ -494,14 +494,14 @@ a {
 }
 
 .btn-outline-primary-boxity {
-    color: rgba(243, 118, 73);
-    border-color: rgba(243, 118, 73);
+    color: rgba(54, 166, 146, 1);
+    border-color: rgba(54, 166, 146, 1);
 }
 
 .btn-outline-primary-boxity:hover {
     color: #fff;
-    border-color: rgba(243, 118, 73);
-    background-color: rgba(243, 118, 73);
+    border-color: rgba(54, 166, 146, 1);
+    background-color: rgba(54, 166, 146, 1);
 }
 
 .btn-secondary-boxity:hover {
@@ -673,7 +673,7 @@ body.swal2-shown>[aria-hidden="true"] {
 }
 
 .itemImageAdd {
-    background-color: #f06532;
+    background-color: #36a692;
     border-radius: 50%;
     padding: 20px 10px 10px 10px;
     color: #fff
