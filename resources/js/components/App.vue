@@ -514,7 +514,7 @@
                                 </menuCollapse>
                             </li>
                         </div>
-                        <div v-if="permission.includes('ViewBlog') || permission.includes('ViewCategories')">
+                        <div>
                             <li>
                                 <menuCollapse
                                     v-bind="{ listId:'menuCollapse8', isSidebar: sidebar, title: 'Blog Management', icon: 'rss_feed' }">
